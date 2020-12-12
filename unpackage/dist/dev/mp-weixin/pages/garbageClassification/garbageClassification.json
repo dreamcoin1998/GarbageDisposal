@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "垃圾数据统计：",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "easy-select": "/components/easy-select/easy-select"
+  }
+}

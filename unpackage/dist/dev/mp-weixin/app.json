@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/garbageClassification/garbageClassification",
+    "pages/classificationControl/classificationControl"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#666666",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/garbageClassification/garbageClassification",
+        "iconPath": "static/tabBar/garbageClassification.png",
+        "selectedIconPath": "static/tabBar/garbageClassification_1.png",
+        "text": "垃圾分类"
+      },
+      {
+        "pagePath": "pages/classificationControl/classificationControl",
+        "iconPath": "static/tabBar/classificationControl.png",
+        "selectedIconPath": "static/tabBar/classificationControl_1.png",
+        "text": "分类控制"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap18.json"
+}
